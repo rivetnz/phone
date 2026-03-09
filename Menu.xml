@@ -3,12 +3,12 @@
 
 <MenuItem>
 <Name>Internal Contacts</Name>
-<URL>https://raw.githubusercontent.com/rivetnz/yealink/main/Internal.xml</URL>
+<URL>https://raw.githubusercontent.com/rivetnz/phone/main/Internal.xml</URL>
 </MenuItem>
 
 <MenuItem>
 <Name>External Contacts</Name>
-<URL>https://raw.githubusercontent.com/rivetnz/yealink/main/External.xml</URL>
+<URL>https://raw.githubusercontent.com/rivetnz/phone/main/External.xml</URL>
 </MenuItem>
 
 </YealinkIPPhoneMenu>
