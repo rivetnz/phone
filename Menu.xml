@@ -1,0 +1,1 @@
+<MenuItem> <Name > Market</Name> <URL > http://192.168.0.1:99/Market.xml</URL> </MenuItem> <SoftKeyItem> <Name>1</Name> <URL>http://192.168.0.1:99/Propaganda.xml</URL> </SoftKeyItem>
