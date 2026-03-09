@@ -1,1 +1,14 @@
-<MenuItem> <Name > Market</Name> <URL > http://192.168.0.1:99/Market.xml</URL> </MenuItem> <SoftKeyItem> <Name>1</Name> <URL>http://192.168.0.1:99/Propaganda.xml</URL> </SoftKeyItem>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneMenu>
+
+<MenuItem>
+<Name>Internal Contacts</Name>
+<URL>https://raw.githubusercontent.com/rivetnz/yealink/main/Internal.xml</URL>
+</MenuItem>
+
+<MenuItem>
+<Name>External Contacts</Name>
+<URL>https://raw.githubusercontent.com/rivetnz/yealink/main/External.xml</URL>
+</MenuItem>
+
+</YealinkIPPhoneMenu>
